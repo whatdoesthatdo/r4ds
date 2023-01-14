@@ -114,7 +114,7 @@ students |>
   )
 ```
 
-Note that the values in the `meal_type` variable have stayed the same, but the type of variable denoted underneath the variable name has changed from character (`<chr>`) to factor (`<fct>`).
+Note that the values in the `meal_plan` variable have stayed the same, but the type of variable denoted underneath the variable name has changed from character (`<chr>`) to factor (`<fct>`).
 You'll learn more about factors in @sec-factors.
 
 Before you analyze these data, you'll probably want to fix the `age` column.
